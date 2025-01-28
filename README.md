@@ -10,7 +10,13 @@ In order to use tymer in the current state that it is in you must install [Flutt
 
 ## Running the app
 
-Once you have the [Flutter SDK](https://docs.flutter.dev/get-started/install):link: installed you can run app using the [Flutter CLI](https://docs.flutter.dev/reference/flutter-cli):link:. Use ``` flutter run ``` command in the tserminal.
+Once you have the [Flutter SDK](https://docs.flutter.dev/get-started/install):link: installed. ``` cd ``` into the code directory.
+
+```bash
+cd tymer
+```
+
+Run app using the [Flutter CLI](https://docs.flutter.dev/reference/flutter-cli):link:. Use ``` flutter run ``` command in the terminal.
 
 ```console
 flutter run
